@@ -15,6 +15,6 @@
 `tntDestroysEverything`: 开启后，TNT爆炸时将能摧毁所有不受流体保护的方块且所有方块的爆炸抗性为0。
 <br>
 <br>
-## 获取更多功能更多版本支持的Carpet-AMS-Addition：
+## 获取更多功能更多版本支持的 Carpet-AMS-Addition：
 
 [Minecraft-AMS/Carpet-AMS-Addition: 一个简易的基于Carpet mod的拓展 (github.com)](https://github.com/Minecraft-AMS/Carpet-AMS-Addition)
