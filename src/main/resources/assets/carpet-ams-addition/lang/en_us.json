@@ -1,0 +1,12 @@
+{
+  "rule.breakableObsdian.name": "breakableObsdian",
+  "rule.breakableObsdian.desc": "Change the hardness of obsdian to deepslate (hardness:3)",
+  "rule.tntDestroysEverything.name": "tntDestroysEverything",
+  "rule.tntDestroysEverything.desc": "TNT can destroy any block not protected by fluid (BlastResistance:0)",
+  "rule.noteBlockChunkLoader.name": "noteBlockChunkLoader",
+  "rule.noteBlockChunkLoader.desc": "Load nearby 3x3 chunks for 15 seconds when a note block is triggered",
+  "rule.bellChunkLoader.name": "bellChunkLoader",
+  "rule.bellBlockChunkLoader.desc": "Load nearby 3x3 chunks for 15 seconds when a bell is triggered",
+  "rule.pistonBlockChunkLoader.name": "pistonBlockChunkLoader",
+  "rule.pistonBlockChunkLoader.desc": "Load nearby 3x3 chunks for 15 seconds when a piston with a bone block at its top extends"
+}
