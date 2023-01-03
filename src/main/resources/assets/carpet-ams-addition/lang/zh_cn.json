@@ -1,0 +1,12 @@
+{
+  "rule.breakableObsdian.name": "易碎黑曜石",
+  "rule.breakableObsdian.desc": "改变深板岩的硬度使其和深板岩一致(hardness:3)",
+  "rule.tntDestroysEverything.name": "TNT破坏所有方块",
+  "rule.tntDestroysEverything.desc": "TNT可以破坏任何不受流体保护的方块且爆炸抗性均为0",
+  "rule.noteBlockChunkLoader.name": "音符盒区块加载",
+  "rule.noteBlockChunkLoader.desc": "音符盒方块被激活时将加载周围3x3区块15s",
+  "rule.bellBlockChunkLoader.name": "钟区块加载",
+  "rule.bellBlockChunkLoader.desc": "钟方块被激活时将加载周围3x3区块15s",
+  "rule.pistonBlockChunkLoader.name": "活塞头区块加载",
+  "rule.pistonBlockChunkLoader.desc": "活塞或黏性活塞被激活且能正常伸出时以活塞头将到达的区块为中心加载3x3区块持续15s"
+}
